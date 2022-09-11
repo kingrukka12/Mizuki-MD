@@ -52,7 +52,7 @@
 	        "ALIVE_LOGO": {
 			"description": "උබට ඕන Alive Logo එකක් ( Direct Links Required )",
 			"required": false,
-			"value": "https://i.ibb.co/pxNPcr1/On-Paste-20220704-231253.png"
+			"value": "https://i.ibb.co/Bnhsx2Y/8-CAA5-C35-5775-4-F72-B52-B-6-DAB8-AE5-FFFA.jpg"
 		},
 		    "SUDO": {
 			"description": "උබට බොටාව වෙන නම්බරේකින් කන්ට්‍රෝල් කරන්න ඕන්නම් දාපන්(ඇඩ්මින් කමාන්ඩ්ස්) Ex :- 94xxxxxxxxx,0",
